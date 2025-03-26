@@ -79,7 +79,7 @@ The two data sets have the same structure :
 
 
 ## Credits
-- [Lei Yang] (https://github.com/LeiY769) (Co-author)
+- [Lei Yang](https://github.com/LeiY769) (Co-author)
 - [Simon Gardier](https://github.com/simon-gardier) (Co-author)
 
 
